@@ -17,6 +17,7 @@
   * Aunque los vendedores que forman parte de la lista no tienen mala fama no se puede asegurar que sean confiables.
   * Ningún miembro de ArduchinoSpain se hace responsable de los posibles incidentes relacionados con las compras realizadas a partir de esta lista (Si quiere hacer uso de esta lista hagalo bajo su propia responsabilidad).
   * Aliexpress ofrece "Protección al Comprador" por lo que si no se recibe un producto finalizando el plazo de entrega proporcionado por el vendedor se debe de abrir una disputa sobre ese pedido antes de finalizar el plazo de protección del comprador. En tal caso Aliexpress debe de responder ante tí si el vendedor no llega a un acuerdo contigo (devolución del dinero, extensión del periodo de protección...).
+  * Los precios aquí mostrados pueden variar levemente con el paso del tiempo.
 
 ---
 
@@ -44,7 +45,7 @@
 
 [10 Buzzers (1.05e)](https://es.aliexpress.com/item/5PCS-Lot-Passive-Buzzer-AC-12MM-8-5MM-12085-16R-Resistance-3V-5V-9V-12V-In/32503620431.html?spm=2114.17010208.99999999.411.ltEcdv)
 
-[20 pulsadores (0.78e)](https://es.aliexpress.com/item/50pcs-lot-6x6x8MM-4PIN-G93-Tactile-Tact-Push-Button-Micro-Switch-Direct-Self-Reset-DIP-Top/32668577723.html?spm=2114.17010208.99999999.439.ltEcdv)
+[50 pulsadores (0.78e)](https://es.aliexpress.com/item/50pcs-lot-6x6x8MM-4PIN-G93-Tactile-Tact-Push-Button-Micro-Switch-Direct-Self-Reset-DIP-Top/32668577723.html?spm=2114.17010208.99999999.439.ltEcdv)
 
 [5 Potenciometros de 10K (0.72e)](https://es.aliexpress.com/item/5-pcs-10K-3362-Potentiometer-103-Potentiometer-Adjustable-Resistance-Best-Sales/32428178783.html?spm=2114.17010208.99999999.266.ltEcdv)
 
@@ -54,9 +55,9 @@
 
 [1 Módulo Acelerómetro/Giroscopio MPU6050 (1.52e)](https://es.aliexpress.com/item/MPU-6050-3-Axis-gyroscope-acce-lerometer-module-3V-5V-compatible-For-Arduino/2035920870.html?spm=2114.17010208.99999999.335.ltEcdv)
 
-[1 (Pedir 2 para comunicarse entre ellos) Módulo transceptor RF 2.4GHz NRF24L01 (0.48e)](https://es.aliexpress.com/item/NRF24L01-NRF24L01-Wireless-Module-2-4G-Wireless-Communication-Module-Upgrade-Module/32649820125.html?spm=2114.17010208.99999999.341.ltEcdv)
+[2 (Se precisan 2 para comunicarse entre ellos) Módulos transceptor RF 2.4GHz NRF24L01 (0.48e x 2)](https://es.aliexpress.com/item/NRF24L01-NRF24L01-Wireless-Module-2-4G-Wireless-Communication-Module-Upgrade-Module/32649820125.html?spm=2114.17010208.99999999.341.ltEcdv)
 
-[1 Módulo receptor NFC RC522 y TAG (1.46e)](https://es.aliexpress.com/item/1PCS-LOT-RFID-module-RC522-Kits-S50-13-56-Mhz-6cm-With-Tags-SPI-Write-Read/32248716249.html?spm=2114.17010208.99999999.296.ltEcdv)
+[1 Módulo antena NFC RC522 y TAG (1.46e)](https://es.aliexpress.com/item/1PCS-LOT-RFID-module-RC522-Kits-S50-13-56-Mhz-6cm-With-Tags-SPI-Write-Read/32248716249.html?spm=2114.17010208.99999999.296.ltEcdv)
 
 [1 Sensor de temperatura LM35 (0.66e)](https://es.aliexpress.com/item/Precision-Centigrade-Temperature-Sensors-LM35-LM35DZ-TO92-TO-92/32692568096.html?spm=2114.17010208.99999999.354.ltEcdv)
 
